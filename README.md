@@ -8,7 +8,7 @@
 ```bash
 @hyperboxed comes with ABSOLUTELY NO WARRANTY, to the extent
 permitted by applicable jokes.
-Last login: Thu Jan 01 0:00 1970 from 192.168.1.69
+First login: Thu Jan 01 0:00 1970 from 192.168.1.69
 ```
 
 ```bash
