@@ -1,16 +1,31 @@
-## Hi there 👋
+```bash
+# cat ~/cool_sign.txt
+┳┳┓    ┓      ┳┓    
+┃┃┃┏┓╋╋┣┓┏┓┓┏┏┣┫┏┓┓┏
+┛ ┗┗┻┗┗┛┗┗ ┗┻┛┻┛┗┛┛┗
+```
 
-<!--
-**hyperboxed/hyperboxed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+# whoami
+> Matthew Box
+```
 
-Here are some ideas to get you started:
+```bash
+# cat ~/about.txt
+> A passionate 18 y/o dev kid;
+> Front-end fan, GameDev lover & Linux enjoyer
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+# cd ~/skills && ls
+  HTML  CSS    JavaScript  TypeScript  React  React-Native
+  Rust  Unity  GameMaker
+```
+
+```bash
+# cat learning.txt
+> "The mind is not a vessel to be filled,
+  but a fire to be kindled." – Plutarch
+```
+
+> "I use Arch btw."
